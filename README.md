@@ -228,10 +228,8 @@ fn main() {
     let particle = Electron;
 }
 ```
-## Traits
-Any type can implement a trait. 
-A trait is define by a group of functions.
-Lets add some traits to the previous structs, which make them more useful.
+You can implement methods on structs.
+Lets add some methods to the previous structs, which make them more useful.
 ```rust
 // Field Struct
 pub struct GridCell {
