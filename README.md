@@ -72,7 +72,7 @@ Heap
 Heap memory is expensive but global.
 Size is known at compile time.
 
-##Macros
+## Macros
 Fundamentally, macros are a way of writing code that writes other code, which is known as metaprogramming.
 Metaprogramming is useful for reducing the amount of code you have to write and maintain, which is also one of the roles of functions. However, macros have some additional powers that functions don’t.
 Macros have a `!`
