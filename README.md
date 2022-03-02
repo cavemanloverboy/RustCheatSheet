@@ -435,7 +435,7 @@ fn main() {
 }
 ```
 ## Match
-Can be use as alternative to large if, else if, else chain
+Can be use as alternative to large if, else if, else chain.
 Can be used to unpack certain Tuple structs, e.g. `Some(x)`, `Ok(x)`.
 ```rust
 fn main() {
