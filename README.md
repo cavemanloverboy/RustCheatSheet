@@ -1,7 +1,10 @@
 
 
 # Rust Cheat Sheet 
+
 *@vicyyn x @cavemanloverboy*
+
+Feel free to fork this repo and make your own Rust Cheat Sheet! Every single Rust code block in this README is valid Rust code that actually runs; the repo uses `skeptic` to generate a unit test for every Rust code block. To test your own fork, just run `cargo test` or let GitHub run the test for you!
 
 ## Variables and Mutability
 All variables are immutable by default.
